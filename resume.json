@@ -1,0 +1,77 @@
+{
+    "basics": {
+        "name": "Prakhar Porwal",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/88229734?s=400&u=ee21a547d7e4ec16e6be95261b8c883f098c4393&v=4",
+        "email": "2020kucp1110@iiitkota.ac.in",
+        "phone": "9669011755",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), pursuing Bachelors of Technology in Computer Science & Engineering.",
+        "location": {
+            "address": "Indore",
+            "postalCode": "452009",
+            "city": "Indore",
+            "countryCode": " India",
+            "region": "Madhya Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "snowynishu786",
+                "url": "https://github.com/PrakharPorwal26"
+            },
+            {
+                "network": "Linkedin",
+                "username": "Prakhar Porwal",
+                "url": "https://www.linkedin.com/in/prakhar-porwal-a7989b215/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++",
+                "Java"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Photography",
+            "keywords": [
+                "Photography"
+            ]
+        },
+        {
+            "name": "Drawing",
+            "keywords": [
+                "Fine Arts"
+            ]
+        },
+        {
+            "name": "Sports",
+            "keywords":[
+                "Basketball","Skating"
+            ]
+        }
+    ],
+    "references": []
+}
